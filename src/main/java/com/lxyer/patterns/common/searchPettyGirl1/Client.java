@@ -1,4 +1,4 @@
-package com.lxyer.patterns.searchPettyGirl;
+package com.lxyer.patterns.common.searchPettyGirl1;
 
 public class Client {
     public static void main(String[] args) {

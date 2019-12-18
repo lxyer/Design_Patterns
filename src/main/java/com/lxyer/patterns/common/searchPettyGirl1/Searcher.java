@@ -1,4 +1,4 @@
-package com.lxyer.patterns.searchPettyGirl;
+package com.lxyer.patterns.common.searchPettyGirl1;
 
 public class Searcher extends AbstractSearcher {
     public Searcher(IPettyGirl _pettyGirl) {

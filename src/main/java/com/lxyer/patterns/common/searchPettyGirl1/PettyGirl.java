@@ -1,4 +1,4 @@
-package com.lxyer.patterns.searchPettyGirl;
+package com.lxyer.patterns.common.searchPettyGirl1;
 
 public class PettyGirl implements IPettyGirl {
     private String name;
