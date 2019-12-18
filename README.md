@@ -1,2 +1,4 @@
-# Design Patterns
-Design Patterns(设计模式)
+## Design Patterns(设计模式)
+> 参考《设计模式之禅(第2版)》
+
+### 1.单例模式
